@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://joymun.github.io/csb-totif/static/css/main.3abc4ded.chunk.css",
+    "main.js": "https://joymun.github.io/csb-totif/static/js/main.c05ee294.chunk.js",
+    "main.js.map": "https://joymun.github.io/csb-totif/static/js/main.c05ee294.chunk.js.map",
+    "runtime-main.js": "https://joymun.github.io/csb-totif/static/js/runtime-main.b1dd4fcc.js",
+    "runtime-main.js.map": "https://joymun.github.io/csb-totif/static/js/runtime-main.b1dd4fcc.js.map",
+    "static/js/2.4ac79760.chunk.js": "https://joymun.github.io/csb-totif/static/js/2.4ac79760.chunk.js",
+    "static/js/2.4ac79760.chunk.js.map": "https://joymun.github.io/csb-totif/static/js/2.4ac79760.chunk.js.map",
+    "index.html": "https://joymun.github.io/csb-totif/index.html",
+    "static/css/main.3abc4ded.chunk.css.map": "https://joymun.github.io/csb-totif/static/css/main.3abc4ded.chunk.css.map",
+    "static/js/2.4ac79760.chunk.js.LICENSE.txt": "https://joymun.github.io/csb-totif/static/js/2.4ac79760.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1dd4fcc.js",
+    "static/js/2.4ac79760.chunk.js",
+    "static/css/main.3abc4ded.chunk.css",
+    "static/js/main.c05ee294.chunk.js"
+  ]
+}
